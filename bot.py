@@ -12,8 +12,8 @@ from telegram.constants import ParseMode
 
 # ============================================================
 
-TELEGRAM_TOKEN = “8774353889:AAH_UdJEir8d9D88yqywJlqjJfqsISm3n7U”
-CHAT_ID = “967491277”
+TELEGRAM_TOKEN = "8774353889:AAH_UdJEir8d9D88yqywJlqjJfqsISm3n7U"
+CHAT_ID = "967491277"
 
 # Пороги срабатывания
 
